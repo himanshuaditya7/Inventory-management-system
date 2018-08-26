@@ -1,0 +1,81 @@
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+c:\users\himanshu aditya\documents\visual studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\Himanshu aditya\Documents\Visual Studio 2013\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form9.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\Himanshu aditya\Documents\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form9.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\inventory(ics)project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form13.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form13.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form9.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\inventory(ics)project10\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
